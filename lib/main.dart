@@ -1,6 +1,10 @@
+// Flutter imports:
 import 'package:flutter/material.dart';
+
+// Package imports:
 import 'package:provider/provider.dart';
 
+// Project imports:
 import 'screens/products_overview_screen.dart';
 import 'screens/product_detail_screen.dart';
 import 'providers/products.dart';
