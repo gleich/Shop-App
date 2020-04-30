@@ -1,4 +1,4 @@
-// Flutter imports:
+// 📱 Flutter imports:
 import 'package:flutter/foundation.dart';
 
 class Product with ChangeNotifier {

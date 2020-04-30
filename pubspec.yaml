@@ -15,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  import_sorter: ^1.0.3
+  import_sorter: ^2.0.0
 
 flutter:
   uses-material-design: true
@@ -28,3 +28,6 @@ flutter:
     - family: Anton
       fonts:
         - asset: assets/fonts/Anton-Regular.ttf
+
+import_sorter:
+  emojis: true

@@ -1,7 +1,7 @@
-// Flutter imports:
+// 📱 Flutter imports:
 import 'package:flutter/material.dart';
 
-// Project imports:
+// 🌎 Project imports:
 import '../providers/product.dart';
 import '../widgets/product_item.dart';
 

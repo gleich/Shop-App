@@ -1,13 +1,13 @@
-// Dart imports:
+// 🎯 Dart imports:
 import 'dart:math';
 
-// Flutter imports:
+// 📱 Flutter imports:
 import 'package:flutter/material.dart';
 
-// Package imports:
+// 📦 Package imports:
 import 'package:intl/intl.dart';
 
-// Project imports:
+// 🌎 Project imports:
 import '../providers/orders.dart' as ord;
 
 class OrderItem extends StatefulWidget {

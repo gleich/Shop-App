@@ -1,7 +1,7 @@
-// Flutter imports:
+// 📱 Flutter imports:
 import 'package:flutter/material.dart';
 
-// Project imports:
+// 🌎 Project imports:
 import './product.dart';
 
 class Products with ChangeNotifier {
